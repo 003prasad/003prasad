@@ -1,5 +1,5 @@
 👋 Hi, I’m Prasad Kolapkar  
-🎓 MCA Final Year Student | North Maharashtra University, Jalgaon  
+🎓 MCA Final Year Student | KBC North Maharashtra University, Jalgaon  
 
 💻 Skills: Core Java, JDBC, SQL, MySQL  
 🌱 Currently learning: Java Backend Development  
